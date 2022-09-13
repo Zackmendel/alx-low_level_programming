@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -8,10 +9,10 @@
 int main(void)
 {
 	char ch;
-	/* sets loop for alphabets*/
-	
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);
 		putchar('\n');
-	return (0);
+
+		return (0);
 }
