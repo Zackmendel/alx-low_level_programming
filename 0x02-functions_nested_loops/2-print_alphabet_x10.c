@@ -6,7 +6,7 @@
  * in lowercase 10 times
  * Return: always o.
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	char i;
 	int j;
@@ -14,8 +14,10 @@ int main(void)
 	for (j = 0; j< 10; j++)
 	{
 		for (i ='a'; i <= 'z'; i++)
+		{
 			_putchar(i);
 		_putchar('\n');
+		}
 	}
 	print_alphabet_x10();
 	return (0);
