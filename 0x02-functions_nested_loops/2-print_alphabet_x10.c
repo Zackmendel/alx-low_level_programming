@@ -7,6 +7,7 @@
  * Return: always o.
  */
 void print_alphabet_x10(void)
+/* function prints alphabets 10 times plus a new line */
 {
 	char i;
 	int j;
