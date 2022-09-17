@@ -2,8 +2,8 @@
 
 /**
  * _abs(int) - short description
- * @a: an integer input
  * function computes the absolute value of an integer
+ * @a: is an integer input
  *
  * Return: Absolute value of number
  */
