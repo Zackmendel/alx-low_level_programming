@@ -19,5 +19,5 @@ int _isalpha(int c)
 				isletter = 1;
 		}
 	}
-	retun (isletter);
+	return (isletter);
 }
