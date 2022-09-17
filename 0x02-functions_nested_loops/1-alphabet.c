@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet
- * Short description:prints alphabet in
+ * short description:prints alphabet in
  * lowercase followed by a new line
  *
  * Return: Always0 (Success)
