@@ -3,7 +3,7 @@
 /**
  * _abs(int) - short description
  * @a: is an integer input
- * This function returns absolute value of a number
+ * This function computes the absolute value of an integer
  *
  * Return: Absolute value of number
  */
