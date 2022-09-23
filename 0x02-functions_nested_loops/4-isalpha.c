@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha(int c) - short description
+ * _isalpha - short description
  * function checks alphabetic characters
  * @c: imteger
  * Return: 1 for loop and 0 otherwise
