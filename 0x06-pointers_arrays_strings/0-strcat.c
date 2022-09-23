@@ -18,6 +18,6 @@ char *_strcat(char *dest, char *src)
 	while (*src)
 		*dest++ = *src++;
 
-	*dst = '\0';
+	*dest = '\0';
 	return (temp);
 }
