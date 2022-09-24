@@ -7,7 +7,7 @@
  *
  * Return: 1 if c is a digit and 0 otherwise
  */
-int _isdigit(int c);
+int _isdigit(int c)
 {
 	char i = '0';
 	int isdigit = 0;
@@ -17,7 +17,10 @@ int _isdigit(int c);
 		if (i == c)
 		{
 			isdigit = 1;
-			break;
+		}
+		else
+		{
+			isdigit = 0;
 		}
 	}
 
