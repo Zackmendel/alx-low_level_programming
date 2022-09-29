@@ -7,7 +7,7 @@
  * @x: an integer input as base
  * @y: an integer input as power
  *
- * Returns: when y < 0, the function return -1
+ * Return: when y < 0, the function return -1
  */
 int _pow_recursion(int x, int y)
 {
